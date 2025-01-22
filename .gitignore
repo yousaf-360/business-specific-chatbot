@@ -41,8 +41,9 @@ lerna-debug.log*
 .env.test.local
 .env.production.local
 .env.local
-docs.md
-assistant-docs.md
+# Documentation files
+/docs.md
+/assistant-docs.md
 # temp directory
 .temp
 .tmp
